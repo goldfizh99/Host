@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\chong\\Documents\\GitHub\\Host\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{481640D4-8B51-4486-8BE8-6C1293424CC4}|NewVersion\\NewVersion.csproj|c:\\users\\chong\\documents\\github\\host\\newversion\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{481640D4-8B51-4486-8BE8-6C1293424CC4}|NewVersion\\NewVersion.csproj|solutionrelative:newversion\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{481640D4-8B51-4486-8BE8-6C1293424CC4}|NewVersion\\NewVersion.csproj|c:\\users\\chong\\documents\\github\\host\\newversion\\home.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{481640D4-8B51-4486-8BE8-6C1293424CC4}|NewVersion\\NewVersion.csproj|solutionrelative:newversion\\home.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,14 +43,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "index.html",
-              "DocumentMoniker": "C:\\Users\\chong\\Documents\\GitHub\\Host\\NewVersion\\index.html",
-              "RelativeDocumentMoniker": "NewVersion\\index.html",
-              "ToolTip": "C:\\Users\\chong\\Documents\\GitHub\\Host\\NewVersion\\index.html",
-              "RelativeToolTip": "NewVersion\\index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-09-26T10:12:02.759Z",
+              "Title": "Home.Master",
+              "DocumentMoniker": "C:\\Users\\chong\\Documents\\GitHub\\Host\\NewVersion\\Home.Master",
+              "RelativeDocumentMoniker": "NewVersion\\Home.Master",
+              "ToolTip": "C:\\Users\\chong\\Documents\\GitHub\\Host\\NewVersion\\Home.Master",
+              "RelativeToolTip": "NewVersion\\Home.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-26T11:57:37.288Z",
               "EditorCaption": ""
             }
           ]
