@@ -47,7 +47,7 @@
       <HintPath>..\packages\Aspose.Imaging.24.9.0\lib\net40\Aspose.Imaging.dll</HintPath>
     </Reference>
     <Reference Include="ASPSnippets.GoogleAPI">
-      <HintPath>..\..\..\..\..\Downloads\ASPSnippets.GoogleAPI.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\ASPSnippets.GoogleAPI.dll</HintPath>
     </Reference>
     <Reference Include="BouncyCastle.Crypto, Version=1.9.0.0, Culture=neutral, PublicKeyToken=0e99375e54769942, processorArchitecture=MSIL">
       <HintPath>..\packages\Portable.BouncyCastle.1.9.0\lib\net40\BouncyCastle.Crypto.dll</HintPath>
@@ -710,6 +710,7 @@
     <Content Include="css\ThankYou.aspx" />
     <Content Include="css\UserProfile.aspx" />
     <Content Include="Global.asax" />
+    <Content Include="index.html" />
     <Content Include="Models\UserModel.Context.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
       <DependentUpon>UserModel.edmx</DependentUpon>
